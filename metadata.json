@@ -1,0 +1,7 @@
+{
+  "name": "Kirnev Advocacia",
+  "description": "Site institucional do escritório Kirnev Advocacia liderado pela Dra. Daiane Kirnev em Tapurah - MT, especialista em Direito do Agronegócio e Direito Cível.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
